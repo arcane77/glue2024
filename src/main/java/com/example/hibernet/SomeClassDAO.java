@@ -93,4 +93,5 @@ public class SomeClassDAO {
             session.getTransaction().commit();
         }
     }
+     System.out.println("object deleted!");
 }
